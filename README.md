@@ -50,7 +50,7 @@ POO mais avançada (herança, polimorfismo, encapsulamento)
 
 ✍️ Autor
 
-Vinícius Meister
+Vinícius Chagas
 📍 Estudante de Java e desenvolvimento backend
 🌐 github.com/vinimeister
 
